@@ -3,6 +3,7 @@ layout: default
 title:  "The usual beginning"
 date:   2017-06-12 19:50:00
 categories: personal
+comments: true
 ---
 "Me"  - The Intro
 ====================
