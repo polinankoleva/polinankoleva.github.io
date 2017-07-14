@@ -1,12 +1,10 @@
 ---
-layout: default
+layout: post
 title:  "The usual beginning"
 date:   2017-06-12 19:50:00
 categories: personal
 comments: true
 ---
-"Me"  - The Intro
-====================
 
 I was thinking about starting a blog even before I had applied for Google Summer of Code 2017 . To be honest, I am neither the best writer nor the most expressive person on the planet. So I kept wondering what was I going to write about in my blog. The inner insecure voice keeps saying "Don't do it, poor girl. Sometimes you don't have anything to talk about with your friends! Or in fact, you don't want to talk with them at all. It is not for you." But as unsociable as I sometimes am, I am also very stubborn and determined. Dangerous combination :smiley:
 <p>
