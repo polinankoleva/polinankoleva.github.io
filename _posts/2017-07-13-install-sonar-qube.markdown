@@ -6,7 +6,7 @@ categories: education
 comments: true
 ---
 
-Because the main aim of GSoC is to make every participant a better engineer, we have been advised to use additional tools which examine the quality of the codebase we are working on. Moreover, they can help us to compare the project before and after GSoC. One of them is SonarQube. I have heard of it during my Bachelor but I have never taken seriously such tools. Anyway, in this blog post, I will try to make a really quick tutorial how to install SonarQube. There exists official documentation (links provided below), but I will try to point out the steps I was confused about and I messed up a little bit :flushed:
+Because the main aim of GSoC is to make every participant a better engineer, we have been advised to use additional tools which examine the quality of the codebase we are working on. Moreover, they can help us to compare the project before and after GSoC. One of them is SonarQube. I have heard of it during my Bachelor but the focus while you are a student is more "let's make it work" than "let's think of code quality" :laughing:. Anyway, in this blog post, I will try to make a really quick tutorial how to install SonarQube. There exists official documentation (links provided below), but I will try to point out the steps I was confused about and I messed up a little bit :flushed:
 
 ### Environment
 
