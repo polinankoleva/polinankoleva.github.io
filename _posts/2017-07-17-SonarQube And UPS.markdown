@@ -6,7 +6,7 @@ categories: gsoc2017
 comments: true
 ---
 Hey, reader :smiley: <br/>
-Monday is here and winter has come :snowflake: :snowflake: :snowflake:. First things first - the new episode's already watched and the time for new article comes. <br/>
+Monday is here and winter has come :snowflake: :snowflake: :snowflake:. First things first - the new episode watched and the time for new article comes. <br/>
 The previous week I shared a tutorial how to install SonarQube.
 > If you have not installed it yet, you can read [my post](https://polinankoleva.github.io/education/2017/07/13/install-sonar-qube.html) how to do it. 
 
