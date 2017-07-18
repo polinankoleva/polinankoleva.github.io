@@ -1,18 +1,32 @@
-# Setup
-title:        One student-developer "in the open"
-tagline:      A semi-professional, less personal blog by a student exploring the open-source world
-baseurl:      ""
-paginate:     1
+# Site settings
+# in the templates available like {{ site.myvariable }}.
+title: One student-developer "in the open"
+email: polina.n.koleva@gmail.com
+brand: Polina Koleva
+headline: One student-developer "in the open"
+description: > # this means to ignore newlines until "baseurl:"
+  A semi-professional, less personal blog by a student exploring the open-source world
+baseurl: "" # the subpath of your site, e.g. /blog
+copyright: 2017 Polina Koleva, Inc. All Rights Reserved.
 
-# About/contact
-author:
-  name:       Polina Koleva
-  url:        https://github.com/polinankoleva
+# Build settings
+markdown: kramdown
 
-# Gems
+# Account ids
+snapwidget: 247552
+
+# Contacts
+emailText: polina.n.koleva@gmail.com
+facebookLink: https://www.facebook.com/polina.koleva.94
+githubLink: https://github.com/polinankoleva
+linkedinLink: https://www.linkedin.com/in/polina-koleva-4353345b/
+facebookText: Want to socialize?
+githubText: Code, code and code
+linkedinText: Have a job offer?
+
 gems:
-  - jekyll-paginate
   - jemoji
 
-#Others
-markdown: kramdown
+# Tracking
+googleAnalitycsID: UA-83933844-1
+

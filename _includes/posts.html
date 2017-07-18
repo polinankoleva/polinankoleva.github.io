@@ -1,0 +1,14 @@
+<section class="container container-posts">
+    <div class="row">
+        <div class="col-md-12">
+            <h1>Posts</h1>
+        </div>   
+ 		{% for post in site.posts %}
+ 		 <div class="col-sm-12">
+            <p>
+     	 		<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> <span> {{ post.date | date_to_string }}</span> 
+      	 	</p>
+      	 </div>
+ 		{% endfor %}
+    </div>
+</section>

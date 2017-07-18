@@ -1,5 +1,10 @@
----
-layout: default
----
-
-{{ content }}
+<!DOCTYPE html>
+<html>
+    {% include head.html %}
+    <body>
+   		{% include navbar.html %}
+   		{% include top.html %}
+   		{{ content }}
+        {% include copyright.html %}
+    </body>
+</html>
