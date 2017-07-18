@@ -1,8 +1,13 @@
----
-layout: default
----
-<h2 style="text-align: center">{{ page.title }}</h2>
-
-{{ content }}
-
-{% include disqus.html %}
+<!DOCTYPE html>
+<html>
+    {% include head.html %}
+    <body>
+   		{% include navbar.html %}
+   		 <section class="post-content">
+			<h2 style="text-align: center">{{ page.title }}</h2>
+      		{{ content }}
+      		{% include disqus.html %}
+   		 </section>	
+        {% include copyright.html %}
+    </body>
+</html>

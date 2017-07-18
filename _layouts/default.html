@@ -1,18 +1,13 @@
 <!DOCTYPE html>
-<html lang="en-us">
-
-  {% include head.html %}
-
-  <body>
-    {% include page-header.html %}
-
-    <section class="main-content">
-
-      {{ content }}
-
-      {% include page-footer.html %}
-
-    </section>
-    <script id="dsq-count-scr" src="//https-polinankoleva-github-io.disqus.com/count.js" async></script>
-  </body>
+<html>
+    {% include head.html %}
+    <body>
+        {% include navbar.html %}
+        {% include top.html %}
+        {% include posts.html %}
+        {% include about.html %}
+        {% include contacts.html %}
+        {% include copyright.html %}
+        {% include tracking.html %}
+    </body>
 </html>
