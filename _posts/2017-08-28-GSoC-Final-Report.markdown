@@ -38,6 +38,8 @@ and [AGPUSH-2141](https://issues.jboss.org/browse/AGPUSH-2141)
 * [AGPUSH-2190](https://issues.jboss.org/browse/AGPUSH-2190) Remove Kafka module [commit](https://github.com/polinankoleva/aerogear-unifiedpush-server/commit/f1a18abf7bde7c0f9194a45e0978bdc2f2162b5d) (decided not to be merged)
 * [AGPUSH-2167](https://issues.jboss.org/browse/AGPUSH-2167) NotificationSenderCallback onSuccess/onError Topic [#903](https://github.com/aerogear/aerogear-unifiedpush-server/pull/903) 
 * [AGPUSH-2186](https://issues.jboss.org/browse/AGPUSH-2186) Invalid Token Topic [#904](https://github.com/aerogear/aerogear-unifiedpush-server/pull/904) 
+* [AGPUSH-2202](https://issues.jboss.org/browse/AGPUSH-2202) Update ReadMe after integration of Kafka [#913](https://github.com/aerogear/aerogear-unifiedpush-server/pull/913)
+* [AGPUSH-2200](https://issues.jboss.org/browse/AGPUSH-2200) Generic pushMessage "success/failure" count with Kafka Streams [In Progress]
 
 
 ## Kafka CDI library pull requests
@@ -74,13 +76,13 @@ and [AGPUSH-2141](https://issues.jboss.org/browse/AGPUSH-2141)
 * [AGPUSH-2131](https://issues.jboss.org/browse/AGPUSH-2131) Improve @KafkaConfig annotation
 * [AGPUSH-2188](https://issues.jboss.org/browse/AGPUSH-2188) IOS Response Kafka Topic
 * [AGPUSH-2189](https://issues.jboss.org/browse/AGPUSH-2189) Kafka Consumer that deletes invalid tokens
-* [AGPUSH-2197](https://issues.jboss.org/browse/AGPUSH-2197) Remove wildfly full profile
+* [AGPUSH-2197](https://issues.jboss.org/browse/AGPUSH-2197) Check if wildfly full profile is needed
 * [AGPUSH-2200](https://issues.jboss.org/browse/AGPUSH-2200) Generic pushMessage "success/failure" count with Kafka Streams
 
 ## Overall Stats
-* We have 87 Jira Tasks created. 22 assigned to me, 24 to [Dimitra](https://github.com/dimitraz) and 11 to [Matthias](https://github.com/matzew).
-* 48 of Jira Tasks were created by me, 23 by Dimitra and 13 by Matthias. 
-* We did 36 pull requests to the UPS, 13 - mine, and 23 - Dimitra. 
+* We have 88 Jira Tasks created. 25 assigned to me, 25 to [Dimitra](https://github.com/dimitraz) and 11 to [Matthias](https://github.com/matzew).
+* 49 of Jira Tasks were created by me, 23 by Dimitra and 13 by Matthias. 
+* We did 37 pull requests to the UPS, 14 - mine, and 23 - Dimitra. 
 * The GSoC branch is 58 commits ahead of the master
 * We have 7 pull requests to [Kafka CDI](https://github.com/matzew/kafka-cdi), 3 - mine, 4 - Dimitra's 
 
