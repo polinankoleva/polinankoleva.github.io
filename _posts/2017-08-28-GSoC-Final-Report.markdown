@@ -88,7 +88,7 @@ and [AGPUSH-2141](https://issues.jboss.org/browse/AGPUSH-2141)
 
 ## TODO List
 
-There are three major topics that we only started but there are still things which can be added or improved. One of them is a stress/performance test of UPS after we replaced JMS with Kafka. In other words how the usage of Kafka improves the throughput. The second is the collection of push metrics - we did some initial tasks but we believe that more is yet to come. And the last one is Kafka Security. Its research was done and concrete Jira tasks were created. Though it was not the highest priority for us, there is no way GSoC POC project to be merged to master and used if security is not implemented.
+There are three major topics that we started but there are still things which can be added or improved. One of them is a stress/performance test of UPS after we replaced JMS with Kafka. In other words how the usage of Kafka improves the throughput. The second is the collection of push metrics - we did some initial tasks but we believe that more is yet to come. And the last one is Kafka Security. Its research was done and concrete Jira tasks were created. Though it was not the highest priority for us, there is no way GSoC POC project to be merged to master and used if security is not implemented.
 
 Jira epics for these topics can be found here:
 * [AGPUSH-2157](https://issues.jboss.org/browse/AGPUSH-2157) Kafka performance metrics
