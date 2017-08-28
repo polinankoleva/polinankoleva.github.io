@@ -83,7 +83,7 @@ and [AGPUSH-2141](https://issues.jboss.org/browse/AGPUSH-2141)
 * We have 88 Jira Tasks created. 25 assigned to me, 25 to [Dimitra](https://github.com/dimitraz) and 11 to [Matthias](https://github.com/matzew).
 * 49 of Jira Tasks were created by me, 23 by Dimitra and 13 by Matthias. 
 * We did 37 pull requests to the UPS, 14 - mine, and 23 - Dimitra. 
-* The GSoC branch is 58 commits ahead of the master
+* The GSoC branch is 60 commits ahead of the master
 * We have 7 pull requests to [Kafka CDI](https://github.com/matzew/kafka-cdi), 3 - mine, 4 - Dimitra's 
 
 ## TODO List
